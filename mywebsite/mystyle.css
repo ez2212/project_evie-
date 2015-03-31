@@ -1,0 +1,53 @@
+<style>
+
+#bar {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+div.img {
+    margin: 0px;
+    padding: 0px;
+    height: auto%;
+    width: auto%;
+    float: left;
+    text-align: right;
+}
+
+#ficaption1, #figcaption2, #figcaption3, #figcaption4{
+	max-height: 300px;
+	max-width: 300px;
+	display: block;
+	font-size: 10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-left: 0px;
+	text-align: left;
+}
+
+div.img img {
+    display: inline;
+    float: left;
+    margin: 5px;
+    border: 1px solid #ffffff;
+}
+
+div.img a:hover img {
+    border:1px solid #0000ff;
+    float: left;
+}
+
+div.img{
+    text-align: left;
+    font-weight: normal;
+    width: 120px;
+    margin: 0px;
+    float:left;
+}
+
+#footer{
+	list-style-type: inline;
+}
+</style>
