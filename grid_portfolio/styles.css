@@ -9,6 +9,12 @@
   -ms-box-sizing: border-box;
   box-sizing: border-box;
 }
+
+
+.portfolio{
+  text-align: center;
+}
+
 .row{
   width: 100%;
   display: flex;
@@ -49,4 +55,6 @@
 }
 .col-12{
   width: 100%;
+  text-align: right;
+
 }
